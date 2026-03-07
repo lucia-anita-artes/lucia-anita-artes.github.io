@@ -1,0 +1,182 @@
+{
+  "phases": [
+    {
+      "id": "fase-1",
+      "order": 1,
+      "title": "Descoberta",
+      "subtitle": "Pintando como hobby, explorando técnicas sem pressão",
+      "status": "completed",
+      "year": "2021",
+      "skillLevel": "Iniciante",
+      "metrics": { "followers": "0", "postsPerWeek": "0" },
+      "advanceThreshold": {
+        "metric": "Para avançar",
+        "min": "Primeira venda realizada",
+        "ideal": "2+ vendas para pessoas diferentes"
+      },
+      "requirements": [
+        { "label": "Pinta com regularidade mínima" },
+        { "label": "Experimenta estilos e materiais" }
+      ],
+      "focusAreas": [
+        { "label": "Pintar o máximo possível — quantidade gera qualidade" },
+        { "label": "Mostrar as obras para conhecidos e pedir opinião honesta" },
+        { "label": "Identificar o estilo que mais gosta e que sai melhor" }
+      ]
+    },
+    {
+      "id": "fase-2",
+      "order": 2,
+      "title": "Primeiras Vendas",
+      "subtitle": "Vendendo por indicação, descobrindo que existe mercado",
+      "status": "completed",
+      "year": "2022",
+      "skillLevel": "Iniciante-Intermediário",
+      "metrics": { "followers": "0", "postsPerWeek": "0" },
+      "advanceThreshold": {
+        "metric": "Para avançar",
+        "min": "Instagram criado com 10+ posts",
+        "ideal": "Posts regulares + 50 seguidores"
+      },
+      "requirements": [
+        { "label": "Já vendeu ou entregou ao menos 1 obra paga" },
+        { "label": "Tem referências suficientes para mostrar ao cliente" }
+      ],
+      "focusAreas": [
+        { "label": "Criar o perfil no Instagram e começar a postar" },
+        { "label": "Fotografar cada obra antes de entregar" },
+        { "label": "Pedir depoimento e foto do cliente com a obra" }
+      ]
+    },
+    {
+      "id": "fase-3",
+      "order": 3,
+      "title": "Presença Online",
+      "subtitle": "Instagram ativo, público ainda limitado ao círculo de conhecidos",
+      "status": "completed",
+      "year": "2023",
+      "skillLevel": "Intermediário",
+      "metrics": { "followers": "50–200", "postsPerWeek": "~0.5" },
+      "advanceThreshold": {
+        "metric": "Likes médios por post",
+        "min": "20",
+        "ideal": "40"
+      },
+      "requirements": [
+        { "label": "Instagram ativo com pelo menos 20 posts no feed" },
+        { "label": "Posta ao menos 1x por semana com regularidade" },
+        { "label": "Técnica consistente — obras com qualidade previsível" }
+      ],
+      "focusAreas": [
+        { "label": "Postar com legenda estratégica (história da obra, processo)" },
+        { "label": "Melhorar iluminação e enquadramento das fotos" },
+        { "label": "Começar a usar Reels — mesmo que curtos e simples" },
+        { "label": "Responder todos os comentários para gerar conversa" }
+      ]
+    },
+    {
+      "id": "fase-4",
+      "order": 4,
+      "title": "Construindo Identidade",
+      "subtitle": "Definindo nicho, criando conteúdo estratégico, engajamento crescendo",
+      "status": "current",
+      "year": "2024–hoje",
+      "skillLevel": "Intermediário",
+      "metrics": { "followers": "277", "postsPerWeek": "1–3" },
+      "advanceThreshold": {
+        "metric": "Likes médios por post",
+        "min": "80",
+        "ideal": "150"
+      },
+      "requirements": [
+        { "label": "Posta 3x/semana no mínimo" },
+        { "label": "Tem pelo menos 1 série temática definida (ex: Coleção Floripa)" },
+        { "label": "Faz Reels de processo regularmente" },
+        { "label": "Engajamento vem de pessoas fora do círculo de amigos" }
+      ],
+      "focusAreas": [
+        { "label": "Fazer Reels de time-lapse com música — potencial viral" },
+        { "label": "Ambientar obras na parede, não no cavalete" },
+        { "label": "Criar expectativa: postar enquetes sobre próxima obra" },
+        { "label": "Responder todos os DMs e comentários rapidamente" },
+        { "label": "Evoluir técnica — obras mais bonitas geram mais saves e compartilhamentos" }
+      ]
+    },
+    {
+      "id": "fase-5",
+      "order": 5,
+      "title": "Tração",
+      "subtitle": "Reels alcançando público novo, DMs sobre encomendas aumentando",
+      "status": "locked",
+      "year": "próxima",
+      "skillLevel": "Intermediário–Avançado",
+      "metrics": { "followers": "500–2.000", "postsPerWeek": "3–4" },
+      "advanceThreshold": {
+        "metric": "Likes médios por post",
+        "min": "300",
+        "ideal": "600"
+      },
+      "requirements": [
+        { "label": "Reels com alcance recorrente além dos seguidores" },
+        { "label": "Recebe DMs de desconhecidos perguntando sobre encomendas" },
+        { "label": "Estilo pessoal reconhecível: público consegue identificar a Lúcia" },
+        { "label": "Pintura mais rápida — produz mais sem perder qualidade" }
+      ],
+      "focusAreas": [
+        { "label": "Lançar 1–2 Reels por semana com ganchos fortes nos primeiros 3s" },
+        { "label": "Criar séries que geram expectativa e retorno do público" },
+        { "label": "Converter interesse em venda: resposta rápida no DM + orçamento claro" },
+        { "label": "Estudar o que fez os melhores Reels performarem e repetir" }
+      ]
+    },
+    {
+      "id": "fase-6",
+      "order": 6,
+      "title": "Artista Reconhecida",
+      "subtitle": "Referência local em Floripa, lista de espera para encomendas",
+      "status": "locked",
+      "year": "futuro",
+      "skillLevel": "Avançado",
+      "metrics": { "followers": "2.000–8.000", "postsPerWeek": "4–5" },
+      "advanceThreshold": {
+        "metric": "Likes médios por post",
+        "min": "1.000",
+        "ideal": "2.000"
+      },
+      "requirements": [
+        { "label": "Conhecida como artista de referência em Florianópolis" },
+        { "label": "Obras em Airbnbs, restaurantes ou espaços comerciais" },
+        { "label": "Lista de espera para encomendas" },
+        { "label": "Renda mensal consistente só de arte" }
+      ],
+      "focusAreas": [
+        { "label": "Collabs com perfis locais de turismo, gastronomia e decoração" },
+        { "label": "Criar site/portfólio com processo de encomenda profissional" },
+        { "label": "Participar de feiras e exposições para presença física" },
+        { "label": "Diversificar conteúdo: bastidores, making-of, opinião" }
+      ]
+    },
+    {
+      "id": "fase-7",
+      "order": 7,
+      "title": "Marca Consolidada",
+      "subtitle": "Marca forte, reconhecimento nacional, múltiplas fontes de receita",
+      "status": "locked",
+      "year": "futuro",
+      "skillLevel": "Expert",
+      "metrics": { "followers": "10.000+", "postsPerWeek": "5+" },
+      "advanceThreshold": null,
+      "requirements": [
+        { "label": "Marca 'Lúcia Anita Artes' conhecida além de Floripa" },
+        { "label": "Múltiplas fontes: encomendas, prints, workshops, collabs" },
+        { "label": "Público fiel que acompanha e compra cada lançamento" },
+        { "label": "Estilo icônico e inconfundível" }
+      ],
+      "focusAreas": [
+        { "label": "Criar produtos derivados: prints, licenciamento, coleções limitadas" },
+        { "label": "Oferecer workshops presenciais e online" },
+        { "label": "Expandir para outras séries regionais e nacional" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "actions": [
+    {
+      "id": "ig-1",
+      "title": "Trocar a bio do Instagram",
+      "description": "Substituir bio atual pela aprovada: 🎨 Arte que fica na parede e na memória | Retratos • Paisagens • Arte sacra | 📍 Florianópolis | Envio para todo o Brasil | 📲 WhatsApp no link abaixo👇",
+      "category": "instagram",
+      "priority": "alta",
+      "done": false,
+      "order": 1
+    },
+    {
+      "id": "ig-2",
+      "title": "Adicionar link do WhatsApp na bio",
+      "description": "Colocar o link https://wa.me/5548991885506 no campo de link do perfil do Instagram.",
+      "category": "instagram",
+      "priority": "alta",
+      "done": false,
+      "order": 2
+    },
+    {
+      "id": "ig-3",
+      "title": "Criar 4 Story Highlights",
+      "description": "Criar os destaques: Retratos, Africanas, Floripa e Encomendar. Cada um com capa temática e stories relevantes selecionados.",
+      "category": "instagram",
+      "priority": "media",
+      "done": false,
+      "order": 3
+    },
+    {
+      "id": "ig-4",
+      "title": "Postar 3x por semana",
+      "description": "Manter frequência mínima de 3 posts por semana no feed + stories diários simples (bastidores, processo, curiosidades).",
+      "category": "instagram",
+      "priority": "alta",
+      "done": false,
+      "order": 4
+    },
+    {
+      "id": "ig-5",
+      "title": "Fixar (pin) 3 posts no perfil",
+      "description": "Fixar: Reel retrato família (126 likes), collage africanas+casario, e retrato Marisa. Isso mostra o melhor trabalho logo no topo.",
+      "category": "instagram",
+      "priority": "media",
+      "done": false,
+      "order": 5
+    },
+    {
+      "id": "pin-1",
+      "title": "Pintar a Ponte Hercílio Luz",
+      "description": "Primeira pintura da Coleção Floripa. Usar técnica de manchas adaptada para paisagem — céu gestual, água com cores se misturando, estrutura arquitetônica mais definida.",
+      "category": "pintura",
+      "priority": "alta",
+      "done": false,
+      "order": 1
+    },
+    {
+      "id": "pin-2",
+      "title": "Gravar time-lapse do processo",
+      "description": "Posicionar celular no tripé antes de começar. Gravar o processo inteiro em time-lapse. Tirar fotos em 3-4 estágios: tela branca, esboço, meio e pronta.",
+      "category": "pintura",
+      "priority": "alta",
+      "done": false,
+      "order": 2
+    },
+    {
+      "id": "neg-1",
+      "title": "Calcular custo real das telas",
+      "description": "Levantar custo de cada tela: tela em branco, tintas usadas (por pintura), verniz, tempo gasto. Use a Calculadora de Preço para chegar a um preço justo e com margem.",
+      "category": "negocio",
+      "priority": "alta",
+      "done": false,
+      "order": 1
+    }
+  ]
+}

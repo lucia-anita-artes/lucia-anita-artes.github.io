@@ -1,0 +1,142 @@
+{
+  "collections": [
+    {
+      "id": "floripa",
+      "title": "Coleção Floripa",
+      "emoji": "🏝️",
+      "description": "Pontos icônicos de Florianópolis",
+      "status": "active",
+      "paintings": [
+        {
+          "id": "ponte-hercilio-luz",
+          "title": "Ponte Hercílio Luz",
+          "status": "in_progress",
+          "notes": "",
+          "imageUrl": null,
+          "steps": {
+            "reference": false,
+            "sketch": false,
+            "started": false,
+            "finished": false,
+            "photo": false,
+            "reel": false,
+            "carousel": false
+          }
+        },
+        {
+          "id": "lagoa-conceicao",
+          "title": "Lagoa da Conceição",
+          "status": "locked",
+          "notes": "",
+          "imageUrl": null,
+          "steps": {
+            "reference": false,
+            "sketch": false,
+            "started": false,
+            "finished": false,
+            "photo": false,
+            "reel": false,
+            "carousel": false
+          }
+        },
+        {
+          "id": "mercado-publico",
+          "title": "Mercado Público",
+          "status": "locked",
+          "notes": "",
+          "imageUrl": null,
+          "steps": {
+            "reference": false,
+            "sketch": false,
+            "started": false,
+            "finished": false,
+            "photo": false,
+            "reel": false,
+            "carousel": false
+          }
+        },
+        {
+          "id": "praia-joaquina",
+          "title": "Praia da Joaquina",
+          "status": "locked",
+          "notes": "",
+          "imageUrl": null,
+          "steps": {
+            "reference": false,
+            "sketch": false,
+            "started": false,
+            "finished": false,
+            "photo": false,
+            "reel": false,
+            "carousel": false
+          }
+        },
+        {
+          "id": "ribeirao-da-ilha",
+          "title": "Ribeirão da Ilha",
+          "status": "locked",
+          "notes": "",
+          "imageUrl": null,
+          "steps": {
+            "reference": false,
+            "sketch": false,
+            "started": false,
+            "finished": false,
+            "photo": false,
+            "reel": false,
+            "carousel": false
+          }
+        }
+      ]
+    },
+    {
+      "id": "arte-sacra",
+      "title": "Arte Sacra",
+      "emoji": "⛪",
+      "description": "Anjos, santos e devoção",
+      "status": "locked",
+      "paintings": [
+        {
+          "id": "anjo-da-guarda",
+          "title": "Anjo da Guarda",
+          "status": "locked",
+          "notes": "",
+          "imageUrl": null,
+          "steps": {
+            "reference": false,
+            "sketch": false,
+            "started": false,
+            "finished": false,
+            "photo": false,
+            "reel": false,
+            "carousel": false
+          }
+        },
+        {
+          "id": "santo-antonio",
+          "title": "Santo Antônio",
+          "status": "locked",
+          "notes": "",
+          "imageUrl": null,
+          "steps": {
+            "reference": false,
+            "sketch": false,
+            "started": false,
+            "finished": false,
+            "photo": false,
+            "reel": false,
+            "carousel": false
+          }
+        }
+      ]
+    },
+    {
+      "id": "retratos",
+      "title": "Retratos",
+      "emoji": "🎭",
+      "description": "Encomendas e retratos especiais",
+      "status": "locked",
+      "paintings": []
+    }
+  ]
+}
