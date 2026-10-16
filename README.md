@@ -11,8 +11,8 @@ Dashboard para acompanhar coleções, progresso de pinturas, próximos passos e 
 ## Desenvolvimento local
 
 ```bash
-npm ci
-npm run dev
+pnpm install --frozen-lockfile
+pnpm run dev
 ```
 
 Abra `http://localhost:3000`.
@@ -55,3 +55,7 @@ Se for user site (`<owner>.github.io`), a URL será:
 Como este repositório é do tipo `user site` (`<owner>.github.io`), a publicação fica direto na raiz:
 
 - `https://<owner>.github.io/`
+
+## Dependency installation
+
+This project uses pnpm 10.34.7 with a frozen `pnpm-lock.yaml`. Restore the shared package policy with My Scripts (`scripts/setup-pnpm-storage.sh --apply`), then run `pnpm install --frozen-lockfile`. Project dependency versions remain independent; identical files share the user package store. Use `pnpm run <script>` for local scripts.
